@@ -1,2 +1,1 @@
-This is now testing GitKraken!!!
-So far it is working nicely.
+This is now testing VS Code with a few Git extensions installed.
