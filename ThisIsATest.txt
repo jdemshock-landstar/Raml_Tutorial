@@ -1,1 +1,1 @@
-This is now testing VS Code with a few Git extensions installed.
+This is now testing VS Code with the GitHub Pull Request extension installed.
