@@ -1,1 +1,2 @@
-THis is now testing GitKraken!!!
+This is now testing GitKraken!!!
+So far it is working nicely.
